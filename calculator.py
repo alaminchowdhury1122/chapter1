@@ -5,3 +5,6 @@ y = float(input("what's y " ))
 z= round(x+y)
 
 print(f"{z:,}")
+
+
+x= int(input("what's A"))
