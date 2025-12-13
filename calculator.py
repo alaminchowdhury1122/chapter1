@@ -7,4 +7,3 @@ z= round(x+y)
 print(f"{z:,}")
 
 
-x= int(input("what's A"))
